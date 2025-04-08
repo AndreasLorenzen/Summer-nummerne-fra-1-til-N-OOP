@@ -1,1 +1,2 @@
 // Programmet er ikke unit eller integrations testet eller fejlsikret med fx. TryParse
+// Programmet kan tage et bruger input og addere det med 1 fra 0 og op til brugeres input. Derefter addere programmet alle resultater sammen til en totalsum. Det er lavet med en interface og kan udregnes ved at bruge While, For og For-each loop-
